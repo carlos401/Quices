@@ -3,6 +3,8 @@
  * @version 1.0
  */
 
+package Auto;
+
 /**
  * Esta clase simula Auto
  */
